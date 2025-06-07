@@ -1,2 +1,2 @@
 [workspace]
-members = [ "async-hello","tutor-web-app-ssr"]
+members = [ "async-hello", "p2p-learn","tutor-web-app-ssr"]
